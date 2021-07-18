@@ -73,3 +73,8 @@ this is under the secure route.js
 4.4 Registration page created which works flawlessly with the back end
 ![image](https://user-images.githubusercontent.com/43549151/126073356-9bfea75a-0d4d-41bb-9955-e9049c250ba9.png)
 
+4.5 you can also can add your own workspace on the database
+
+![image](https://user-images.githubusercontent.com/43549151/126073382-a8742dc2-70ca-4beb-8e34-38afec000c74.png)
+
+
