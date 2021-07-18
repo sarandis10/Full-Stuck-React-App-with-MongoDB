@@ -15,4 +15,15 @@ if mongoose throws an error download it "yarn add mongoose"
 
 ![image](https://user-images.githubusercontent.com/43549151/126072204-05d4e2b8-65bc-4da5-a3fb-95f50ec03631.png)
 
+# 3.0 Technologies used 
+3.1 We have created a backend API with basic authorisation via a TOKEN
 
+3.2 data are aquired from a seed file
+
+3.3 under the models folder we have created 2 schemas. one for the data we populated on the seeds file and one for the uses which are used to login to the app
+
+![image](https://user-images.githubusercontent.com/43549151/126072554-0807423d-72ef-482b-a9f7-2d13625ab162.png)
+
+3.4 we connedcted the Schema with the DB via a mongoose model
+
+![image](https://user-images.githubusercontent.com/43549151/126072542-96162fe7-71d1-4b55-a9f4-3a10ba96d9c7.png)
