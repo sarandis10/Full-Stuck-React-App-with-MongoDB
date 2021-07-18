@@ -9,6 +9,8 @@ We have created a site that you can look for workplaces anywhere in the world.
 2.2 go to the app and inside the name-test folder in terminal run the commands yarn, yarn seed and yarn serve.
 you need to seed the DB and download all the node modules. 
 if mongoose throws an error download it "yarn add mongoose"
+![image](https://user-images.githubusercontent.com/43549151/126072605-0390f1d2-cdaa-4cb7-9830-23ece64b8368.png)
+
 
 2.3 make sure the server runs and then navigate to the client folder.
 2.4 do yarn and yarn run the site should look something like this:
@@ -27,3 +29,5 @@ if mongoose throws an error download it "yarn add mongoose"
 3.4 we connedcted the Schema with the DB via a mongoose model
 
 ![image](https://user-images.githubusercontent.com/43549151/126072542-96162fe7-71d1-4b55-a9f4-3a10ba96d9c7.png)
+
+3.5 
