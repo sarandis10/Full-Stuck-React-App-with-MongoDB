@@ -58,6 +58,8 @@ this is under the secure route.js
 
 
 ![image](https://user-images.githubusercontent.com/43549151/126073162-51c5a0cb-4b0d-464d-8887-cea61d789cc3.png)
+
+
 4.2 A map has been also implemented with a search function
 ![image](https://user-images.githubusercontent.com/43549151/126073212-e40da1cb-300c-468a-b66f-fad561c88606.png)
 
