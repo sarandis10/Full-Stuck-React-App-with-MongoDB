@@ -50,6 +50,13 @@ this is under the secure route.js
 # 4.0 Front End
 
 4.1 numerous conponents created. each one servs its own purpose 
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/43549151/126073162-51c5a0cb-4b0d-464d-8887-cea61d789cc3.png)
 
 
