@@ -17,7 +17,7 @@ if mongoose throws an error download it "yarn add mongoose"
 
 ![image](https://user-images.githubusercontent.com/43549151/126072204-05d4e2b8-65bc-4da5-a3fb-95f50ec03631.png)
 
-# 3.0 Technologies used 
+# 3.0 BackEnd
 3.1 We have created a backed API with basic authorization via a TOKEN
 
 3.2 data are acquired from a seed file
@@ -45,6 +45,12 @@ this is under the secure route.js
 ![image](https://user-images.githubusercontent.com/43549151/126072886-14d0e686-96bd-46e0-bc80-53c646bf08ea.png)
 
 3.8 constants that used quite often live on a separate file and exported directly 
+
+
+# 4.0 Front End
+
+4.1 numerous conponents created. each one servs its own purpose 
+![image](https://user-images.githubusercontent.com/43549151/126073162-51c5a0cb-4b0d-464d-8887-cea61d789cc3.png)
 
 
 
