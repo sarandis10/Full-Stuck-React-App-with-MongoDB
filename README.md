@@ -68,3 +68,8 @@ this is under the secure route.js
 
 
 4.3 Bootstrat did all the heavy lifting but CSS has been used as well!
+
+
+4.4 Registration page created which works flawlessly with the back end
+![image](https://user-images.githubusercontent.com/43549151/126073356-9bfea75a-0d4d-41bb-9955-e9049c250ba9.png)
+
