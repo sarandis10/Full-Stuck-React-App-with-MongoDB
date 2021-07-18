@@ -18,9 +18,9 @@ if mongoose throws an error download it "yarn add mongoose"
 ![image](https://user-images.githubusercontent.com/43549151/126072204-05d4e2b8-65bc-4da5-a3fb-95f50ec03631.png)
 
 # 3.0 Technologies used 
-3.1 We have created a backend API with basic authorisation via a TOKEN
+3.1 We have created a backed API with basic authorization via a TOKEN
 
-3.2 data are aquired from a seed file
+3.2 data are acquired from a seed file
 
 3.3 under the models folder we have created 2 schemas. one for the data we populated on the seeds file and one for the uses which are used to login to the app
 
@@ -30,4 +30,19 @@ if mongoose throws an error download it "yarn add mongoose"
 
 ![image](https://user-images.githubusercontent.com/43549151/126072542-96162fe7-71d1-4b55-a9f4-3a10ba96d9c7.png)
 
-3.5 
+3.5 we have used jsonwebtoken and bcrypt to encript and decript the Token. get the payload data check if it is on the correct format use it to login our users.
+this is under the secure route.js 
+![image](https://user-images.githubusercontent.com/43549151/126072674-9cf4b78f-d3a9-4d01-85a2-9cc36a44926e.png)
+
+3.6 the logic of the back end lives on the controllers -> workspaces where we have functionality for GET, DELETE, ADD a new workspace. We havent implemented a PUT request
+![image](https://user-images.githubusercontent.com/43549151/126072812-2332fe5e-cf7f-4fb1-bba1-bf5fb19dd67f.png)
+
+3.7 Routes have been created on a separate file called router
+![image](https://user-images.githubusercontent.com/43549151/126072886-14d0e686-96bd-46e0-bc80-53c646bf08ea.png)
+
+3.8 constants that used quite often live on a separate file and exported directly 
+
+
+
+
+
