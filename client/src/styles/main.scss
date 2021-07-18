@@ -1,0 +1,258 @@
+* {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+// #222222 TEXT COLOR TO ADD
+
+#changingcolor{  //BUTTONS
+  background-color: white;
+  color: #ff385c;
+  border-color: #ff385c;
+  font-weight: bolder;
+}
+
+#changingcolor1{  //BUTTONS ABOUT US
+  background-color: #ff385c;
+  color: white;
+  border-color: #ff385c;
+  font-weight: bolder;
+}
+
+.changingcolor2:hover{ //BUTTONS HOVER 
+  background-color: white !important;
+  color: #ff385c !important;
+  font-weight: bolder;
+}
+
+.box-shadow:hover{ //CARD SHADOW - HOME
+  box-shadow:  0px 0px 16px 5px #ff385c!important;
+}
+.changingcolor2:hover{ //CARD HOVER
+  background-color: white !important;
+  color: #ff385c !important;
+  font-weight: bolder;
+}
+.changingcolor1:hover{ //BUTTONS HOVER 
+  background-color: #ff385c !important;
+  color: white !important;
+  font-weight: bolder;
+}
+.card1{
+  background-color: white;
+  color: #ff385c;
+  border-color: #ff385c !important;
+  font-weight: bolder;
+}
+// .cardtitlebolder{
+//   font-weight: bolder;
+// }
+
+.aboutusname {
+  color: #ff385c;
+  font-weight: bolder;
+  font-size: 28 !important;
+  margin-top: 5%;
+}
+
+#mainlogo{
+height: 35%;
+width: 35%;
+}
+.boldtext{
+  font-weight: bolder;
+  color: #222222;
+}
+#containercarousel {
+  background-color: #ff385c;
+  color: white;
+  height: 100%;
+}
+.align-items-center h1 { 
+  color: white;
+  font-size: bold;
+  font-size: 38px;
+}
+#containercarouselright {
+  display: table-row-group;
+}
+#corousetext  {
+  background-color: rgba(238, 236, 227, 0.692);
+}
+  // #0071c2
+#corousetext h5 {
+  color: #FF385C;
+  font-size: bold;
+  font-size: 32px;
+}
+#corousetext p {
+  color: #FF385C;
+  font-size: bold;
+  font-style: oblique;
+  font-size: 21px;
+}
+#cursor {
+  cursor: pointer;
+}
+.taras1 {
+  padding-bottom: 20px;
+}
+
+.taras2 {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.taras3 {
+  margin-top: 10px;
+}
+
+.taras4 {
+  padding-top: 10px;
+}
+
+.taras5 {
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 550px) {
+  .taras-hidden { display: none; }
+}
+
+.box-shadow {
+  &:hover {
+    -webkit-box-shadow: 0px 0px 16px 5px #000000; 
+    box-shadow: 0px 0px 16px 5px #000000;
+  }
+}
+
+.me-4 text-reset{
+    width: 20px;
+    height:20px;
+    background-color:#ff385c;
+}
+
+.container text-center text-md-start mt-5{
+    background-color: #ff385c;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    .title {
+      background-color: #ff385c;
+      color: white;
+      padding: 1rem;
+      transform: skewX(-10deg);
+      font-size: 2.5rem;
+    }
+  }
+
+  .form-check-input:checked{
+    background-color: #ff385c;
+    border-color: #ff385c;
+  }
+  
+  .navbar {
+    border-bottom: 1px solid lightgray;
+  }
+  
+  .map-container {
+    height: calc(100vh - 52px);
+    width: 100%;
+  }
+  
+  .map-controller {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 220px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    padding: 0.8rem;
+    margin: 1rem;
+  }
+  
+  .buttons {
+    justify-content: space-evenly !important;
+  }
+  
+  .marker {
+    font-size: 20px;
+  }
+  
+  .rocket {
+    display: block;
+    transform: translateX(-20px);
+  }
+  
+  @import '~bulma/bulma.sass';
+  
+  #buttonSignIn {
+    background-color: #ff385c !important;
+    border: #ff385c !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cities-sa, #countries-sa{
+  background-color: #ff385c;
+  size: 50px;
+}
+.SA-display{
+  max-width: 1000px;
+  align-content: center;
+  margin-left: 250px;
+  left: 51%;
+}
+.dropdown{
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+
+}
+.searchbar{
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+  margin-top: 55px;
+}
+
+
