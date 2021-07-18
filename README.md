@@ -37,6 +37,8 @@ this is under the secure route.js
 3.6 the logic of the back end lives on the controllers -> workspaces where we have functionality for GET, DELETE, ADD a new workspace. We havent implemented a PUT request
 ![image](https://user-images.githubusercontent.com/43549151/126072812-2332fe5e-cf7f-4fb1-bba1-bf5fb19dd67f.png)
 
+
+
 3.7 Routes have been created on a separate file called router
 ![image](https://user-images.githubusercontent.com/43549151/126072886-14d0e686-96bd-46e0-bc80-53c646bf08ea.png)
 
