@@ -5,6 +5,7 @@ We have created a site that you can look for workplaces anywhere in the world.
 
 # 2.0 to run the app
 2.1 run the mongo DB server
+
 2.2 go to the app and inside the name-test folder in terminal run the commands yarn, yarn seed and yarn serve.
 you need to seed the DB and download all the node modules. 
 if mongoose throws an error download it "yarn add mongoose"
