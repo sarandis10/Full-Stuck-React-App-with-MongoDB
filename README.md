@@ -1,7 +1,7 @@
-# Full Stuck React app using Mongo DB as database
+# 1.0 Full Stuck React app using Mongo DB as database
 We have created a site that you can look for workplaces anywhere in the world. 
 
-1.0 if for any reason you cant run this app email me on sarandis10@hotmail.com and i will send you a zipped version of it. 
+If for any reason you cant run this app email me on sarandis10@hotmail.com and i will send you a zipped version of it. 
 
 # 2.0 Running the app
 2.1 run the mongo DB server
