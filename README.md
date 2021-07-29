@@ -32,6 +32,7 @@ if mongoose throws an error download it "yarn add mongoose"
 
 3.5 we have used jsonwebtoken and bcrypt to encrypt and decrypt the Token. get the payload data check if it is on the correct format use it to login our users.
 this is under the secure route.js 
+
 ![image](https://user-images.githubusercontent.com/43549151/126072674-9cf4b78f-d3a9-4d01-85a2-9cc36a44926e.png)
 
 3.6 the logic of the back end lives on the controllers -> workspaces where we have functionality for GET, DELETE, ADD a new workspace. We haven't implemented a PUT request
