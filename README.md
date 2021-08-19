@@ -9,6 +9,7 @@ If for any reason you cant run this app email me on sarandis10@hotmail.com and i
 2.2 go to the app and inside the name-test folder in terminal run the commands yarn, yarn seed and yarn serve.
 you need to seed the DB and download all the node modules. 
 if mongoose throws an error download it "yarn add mongoose"
+
 ![image](https://user-images.githubusercontent.com/43549151/126072605-0390f1d2-cdaa-4cb7-9830-23ece64b8368.png)
 
 
