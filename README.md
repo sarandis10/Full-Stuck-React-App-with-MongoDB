@@ -18,6 +18,22 @@ if mongoose throws an error download it "yarn add mongoose"
 
 ![image](https://user-images.githubusercontent.com/43549151/126072204-05d4e2b8-65bc-4da5-a3fb-95f50ec03631.png)
 
+# Technologies used
+*  HTML5
+*  CSS3 + SCSS
+*  JavaScript(ES6)
+*  React.js
+*  Node.js
+*  Express
+*  MongoDB
+*  JWT
+*  Axios
+*  Bcrypt
+*  MapBox
+*  Insomnia
+*  Git & GitHub
+*  Bootstrap
+
 # 3.0 Back End
 3.1 We have created a backed API with basic authorization via a TOKEN
 
